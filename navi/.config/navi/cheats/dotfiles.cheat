@@ -1,0 +1,7 @@
+% dotfiles
+
+# Create new dotfile
+mkdir -p ~/.dotfiles/<package>/.config/<package>
+mv ~/.config/<package>/*
+
+stow ~/.dotfiles/<package>
