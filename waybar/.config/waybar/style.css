@@ -1,3 +1,4 @@
+@import url("/home/austin/.cache/wal/colors-waybar.css");
 /* -- Global rules -- */
 * {
   border: none;
@@ -7,7 +8,7 @@
 }
 
 window#waybar {
-  background: rgba(34, 36, 54, 0.6);
+  background: @background;
 }
 
 window#waybar.hidden {
@@ -26,7 +27,7 @@ window#waybar.hidden {
 #pulseaudio-slider,
 #network,
 #language {
-  color: #161320;
+  color: @background;
   margin-top: 6px;
   margin-bottom: 6px;
   padding-left: 10px;
@@ -57,57 +58,57 @@ window#waybar.hidden {
 /* Modules left */
 #custom-archicon {
   font-size: 20px;
-  color: #89B4FA;
-  background: #161320;
+  color: @foreground;
+  background: @background;
   padding-right: 17px;
 }
 
 #clock {
-  background: #ABE9B3;
+  background: @color4;
 }
 
 #cpu {
-  background: #96CDFB;
+  background: @color5;
 }
 
 #memory {
-  background: #DDB6F2;
+  background: @color6;
 }
 
 #disk {
-  background: #F5C2E7;
+  background: @color7;
 }
 
 #temperature {
-  background: #F8BD96;
+  background: @color8;
 }
 
 /* Modules center */
 #workspaces {
-  background: rgba(0, 0, 0, 0.5);
+  background: @background;
   border-radius: 10px;
   margin: 6px 5px;
   padding: 0px 6px;
 }
 
 #workspaces button {
-  color: #B5E8E0;
+  color: @color4;
   background: transparent;
   padding: 4px 4px;
   transition: color 0.3s ease, text-shadow 0.3s ease, transform 0.3s ease;
 }
 
 #workspaces button.occupied {
-  color: #A6E3A1;
+  color: @color5;
 }
 
 #workspaces button.active {
-  color: #89B4FA;
+  color: @color4;
   text-shadow: 0 0 4px #ABE9B3;
 }
 
 #workspaces button:hover {
-  color: #89B4FA;
+  color: @color6;
 }
 
 #workspaces button.active:hover {}
@@ -128,40 +129,54 @@ window#waybar.hidden {
 }
 
 #taskbar button.active {
-  background: rgba(34, 36, 54, 0.5);
+  background: @color1;
 }
 
 #taskbar button:hover {
-  background: rgba(34, 36, 54, 0.5);
+  background: @color1;
 }
 
 #idle_inhibitor {
-  background: #B5E8E0;
+  background: @color8;
   padding-right: 15px;
 }
 
+#pulseaudio-slider {
+  color: @color8;
+  background: @color5;
+  min-width: 50px;
+  background-image: none;
+}
+
+
 #pulseaudio {
   min-width: 55px;
-  color: #1A1826;
-  background: #F5E0DC;
+  color: @background;
+  background: @color6;
 }
 
-#pulseaudio-slider {
-  color: #1A1826;
-  background: #E8A2AF;
-  min-width: 50px;
+#pulseaudio-slider trough {
+    background: @color8;
 }
 
-#pulseaudio-slider slider {}
+#pulseaudio-slider highlight {
+    background: @color9;
+}
 
+
+
+#pulseaudio-slider slider {
+  background: @background;
+  color: #ffffff;
+}
 
 #network {
-  background: #CBA6F7;
+  background: @color7;
   padding-right: 13px;
 }
 
 #language {
-  background: #A6E3A1;
+  background: @color8;
   padding-right: 15px;
 }
 

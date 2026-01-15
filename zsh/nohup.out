@@ -1,0 +1,493 @@
+[2026-01-14 22:24:15.360] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:24:15.363] [info] Discovered appearance 'dark'
+[2026-01-14 22:24:15.379] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:24:15.391] [info] Hyprland IPC starting
+[2026-01-14 22:24:15.392] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:24:15.392] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:24:15.643] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:32:39.931] [info] Reloading...
+[2026-01-14 22:32:39.936] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:32:39.958] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:32:39.967] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:32:39.967] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:32:40.176] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:42:01.479] [info] Reloading...
+[2026-01-14 22:42:01.483] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:42:01.501] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:42:01.513] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:42:01.513] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:42:01.707] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:42:13.378] [info] Reloading...
+[2026-01-14 22:42:13.382] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:42:13.404] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:42:13.412] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:42:13.412] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:42:13.580] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:52:18.934] [info] Reloading...
+[2026-01-14 22:52:18.937] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:52:18.957] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:52:18.964] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:52:18.965] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:52:19.182] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:52:33.634] [info] Reloading...
+[2026-01-14 22:52:33.637] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:52:33.659] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:52:33.666] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:52:33.666] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:52:33.836] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:52:38.826] [info] Reloading...
+[2026-01-14 22:52:38.830] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:52:38.850] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:52:38.858] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:52:38.858] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:52:39.025] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:52:58.953] [info] Reloading...
+[2026-01-14 22:52:58.957] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:52:58.976] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:52:58.982] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:52:58.983] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:52:59.149] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:53:22.513] [info] Reloading...
+[2026-01-14 22:53:22.517] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:53:22.536] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:53:22.547] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:53:22.547] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:53:22.717] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:53:35.052] [info] Reloading...
+[2026-01-14 22:53:35.056] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:53:35.075] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:53:35.081] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:53:35.082] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:53:35.248] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:53:52.683] [info] Reloading...
+[2026-01-14 22:53:52.687] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:53:52.707] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:53:52.715] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:53:52.715] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:53:52.880] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:54:38.466] [info] Reloading...
+[2026-01-14 22:54:38.472] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:54:38.495] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:54:38.501] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:54:38.501] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:54:38.719] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:54:57.663] [info] Reloading...
+[2026-01-14 22:54:57.667] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:54:57.690] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:54:57.697] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:54:57.697] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:54:57.868] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:55:13.457] [info] Reloading...
+[2026-01-14 22:55:13.462] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:55:13.487] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:55:13.492] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:55:13.492] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:55:13.659] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:56:01.184] [info] Reloading...
+[2026-01-14 22:56:01.189] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:56:01.213] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:56:01.221] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:56:01.222] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:56:01.427] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:56:28.406] [info] Reloading...
+[2026-01-14 22:56:28.408] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:56:28.429] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:56:28.437] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:56:28.437] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:56:28.608] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:56:58.552] [info] Reloading...
+[2026-01-14 22:56:58.555] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:56:58.578] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:56:58.584] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:56:58.584] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:56:58.795] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:57:28.458] [info] Reloading...
+[2026-01-14 22:57:28.463] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:57:28.485] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:57:28.491] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:57:28.491] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:57:28.663] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:57:55.667] [info] Reloading...
+[2026-01-14 22:57:55.671] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:57:55.691] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:57:55.697] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:57:55.697] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:57:55.865] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:58:21.497] [info] Reloading...
+[2026-01-14 22:58:21.500] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:58:21.519] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:58:21.525] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:58:21.525] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:58:21.696] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:58:38.116] [info] Reloading...
+[2026-01-14 22:58:38.120] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:58:38.140] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:58:38.146] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:58:38.146] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:58:38.313] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:59:27.585] [info] Reloading...
+[2026-01-14 22:59:27.588] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:59:27.612] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:59:27.620] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:59:27.620] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:59:27.837] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 22:59:37.772] [info] Reloading...
+[2026-01-14 22:59:37.775] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 22:59:37.795] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 22:59:37.802] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 22:59:37.802] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 22:59:37.973] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:00:27.464] [info] Reloading...
+[2026-01-14 23:00:27.468] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:00:27.491] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:00:27.498] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:00:27.498] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:00:27.702] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:00:44.067] [info] Reloading...
+[2026-01-14 23:00:44.071] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:00:44.095] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:00:44.104] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:00:44.104] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:00:44.286] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:01:04.127] [info] Reloading...
+[2026-01-14 23:01:04.130] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:01:04.153] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:01:04.161] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:01:04.161] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:01:04.348] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:01:19.737] [info] Reloading...
+[2026-01-14 23:01:19.740] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:01:19.760] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:01:19.768] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:01:19.768] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:01:19.939] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:01:27.699] [info] Reloading...
+[2026-01-14 23:01:27.702] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:01:27.724] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:01:27.736] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:01:27.736] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:01:27.908] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:01:36.393] [info] Reloading...
+[2026-01-14 23:01:36.396] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:01:36.419] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:01:36.427] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:01:36.427] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:01:36.601] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:02:22.186] [info] Reloading...
+[2026-01-14 23:02:22.189] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:02:22.210] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:02:22.218] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:02:22.218] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:02:22.428] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:02:43.895] [info] Reloading...
+[2026-01-14 23:02:43.898] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:02:43.919] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:02:43.927] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:02:43.927] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:02:44.103] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:03:24.771] [info] Reloading...
+[2026-01-14 23:03:24.777] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:03:24.797] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:03:24.805] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:03:24.805] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:03:25.013] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:03:36.079] [info] Reloading...
+[2026-01-14 23:03:36.083] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:03:36.103] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:03:36.109] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:03:36.109] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:03:36.285] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:03:46.210] [info] Reloading...
+[2026-01-14 23:03:46.213] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:03:46.228] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:03:46.233] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:03:46.234] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:03:46.392] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:04:00.542] [info] Reloading...
+[2026-01-14 23:04:00.545] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:04:00.565] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:04:00.576] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:04:00.576] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:04:00.753] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:04:12.486] [info] Reloading...
+[2026-01-14 23:04:12.490] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:04:12.512] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:04:12.518] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:04:12.518] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:04:12.694] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:04:53.311] [info] Reloading...
+[2026-01-14 23:04:53.314] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:04:53.334] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:04:53.341] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:04:53.341] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:04:53.573] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:05:01.545] [info] Reloading...
+[2026-01-14 23:05:01.549] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:05:01.572] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:05:01.578] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:05:01.578] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:05:01.757] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:06:28.320] [info] Reloading...
+[2026-01-14 23:06:28.324] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:06:28.346] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:06:28.357] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:06:28.357] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:06:28.580] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:20:05.785] [info] Reloading...
+[2026-01-14 23:20:05.789] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:20:05.810] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:20:05.818] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:20:05.818] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:20:06.036] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:20:19.626] [info] Reloading...
+[2026-01-14 23:20:19.629] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:20:19.650] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:20:19.656] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:20:19.656] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:20:19.839] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:21:23.766] [info] Reloading...
+[2026-01-14 23:21:23.769] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:21:23.789] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:21:23.797] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:21:23.797] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:21:24.019] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:21:33.100] [info] Reloading...
+[2026-01-14 23:21:33.103] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:21:33.125] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:21:33.130] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:21:33.130] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:21:33.310] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:21:54.693] [info] Reloading...
+[2026-01-14 23:21:54.698] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:21:54.720] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:21:54.726] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:21:54.726] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:21:54.906] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:22:13.870] [info] Reloading...
+[2026-01-14 23:22:13.874] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:22:13.894] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:22:13.901] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:22:13.901] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:22:14.080] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:22:24.503] [info] Reloading...
+[2026-01-14 23:22:24.507] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:22:24.528] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:22:24.534] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:22:24.534] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:22:24.719] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:22:33.777] [info] Reloading...
+[2026-01-14 23:22:33.781] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:22:33.801] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:22:33.807] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:22:33.807] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:22:33.982] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:22:41.449] [info] Reloading...
+[2026-01-14 23:22:41.453] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:22:41.474] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:22:41.479] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:22:41.479] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:22:41.665] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:22:51.096] [info] Reloading...
+[2026-01-14 23:22:51.100] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:22:51.120] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:22:51.134] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:22:51.134] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:22:51.316] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:23:02.475] [info] Reloading...
+[2026-01-14 23:23:02.478] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:23:02.499] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:23:02.510] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:23:02.510] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:23:02.689] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:23:25.728] [info] Reloading...
+[2026-01-14 23:23:25.732] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:23:25.752] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:23:25.758] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:23:25.758] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:23:25.941] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:23:42.298] [info] Reloading...
+[2026-01-14 23:23:42.302] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:23:42.324] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:23:42.332] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:23:42.332] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:23:42.513] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:23:55.905] [info] Reloading...
+[2026-01-14 23:23:55.909] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:23:55.933] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:23:55.939] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:23:55.939] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:23:56.125] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:24:09.981] [info] Reloading...
+[2026-01-14 23:24:09.986] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:24:10.009] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:24:10.016] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:24:10.016] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:24:10.208] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:24:46.810] [info] Reloading...
+[2026-01-14 23:24:46.815] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:24:46.837] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:24:46.848] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:24:46.848] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:24:47.076] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:25:15.042] [info] Reloading...
+[2026-01-14 23:25:15.048] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:25:15.072] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:25:15.082] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:25:15.082] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:25:15.274] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:25:32.755] [info] Reloading...
+[2026-01-14 23:25:32.758] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:25:32.778] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:25:32.789] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:25:32.789] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:25:32.974] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:25:49.456] [info] Reloading...
+[2026-01-14 23:25:49.460] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:25:49.484] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:25:49.490] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:25:49.490] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:25:49.680] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:25:56.904] [info] Reloading...
+[2026-01-14 23:25:56.907] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:25:56.930] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:25:56.936] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:25:56.936] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:25:57.120] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:26:06.797] [info] Reloading...
+[2026-01-14 23:26:06.801] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:26:06.821] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:26:06.827] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:26:06.827] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:26:07.013] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:26:12.515] [info] Reloading...
+[2026-01-14 23:26:12.520] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:26:12.541] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:26:12.548] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:26:12.548] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:26:12.733] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:27:11.226] [info] Reloading...
+[2026-01-14 23:27:11.231] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:27:11.253] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:27:11.260] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:27:11.260] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:27:11.486] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:27:25.499] [info] Reloading...
+[2026-01-14 23:27:25.504] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:27:25.531] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:27:25.538] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:27:25.538] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:27:25.723] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:27:34.957] [info] Reloading...
+[2026-01-14 23:27:34.960] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:27:34.981] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:27:34.987] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:27:34.988] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:27:35.188] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:27:40.817] [info] Reloading...
+[2026-01-14 23:27:40.821] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:27:40.842] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:27:40.848] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:27:40.848] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:27:41.039] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:27:49.565] [info] Reloading...
+[2026-01-14 23:27:49.569] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:27:49.590] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:27:49.596] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:27:49.596] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:27:49.784] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:28:07.148] [info] Reloading...
+[2026-01-14 23:28:07.151] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:28:07.174] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:28:07.180] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:28:07.181] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:28:07.374] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:28:20.361] [info] Reloading...
+[2026-01-14 23:28:20.365] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:28:20.385] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:28:20.392] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:28:20.393] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:28:20.586] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:29:35.213] [info] Reloading...
+[2026-01-14 23:29:35.217] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:29:35.246] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:29:35.255] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:29:35.255] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:29:35.492] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:29:51.093] [info] Reloading...
+[2026-01-14 23:29:51.097] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:29:51.117] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:29:51.125] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:29:51.125] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:29:51.315] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:30:14.957] [info] Reloading...
+[2026-01-14 23:30:14.962] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:30:14.983] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:30:14.991] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:30:14.991] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:30:15.186] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:30:23.149] [info] Reloading...
+[2026-01-14 23:30:23.156] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:30:23.187] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:30:23.195] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:30:23.195] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:30:23.389] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:30:35.069] [info] Reloading...
+[2026-01-14 23:30:35.072] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:30:35.094] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:30:35.099] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:30:35.100] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:30:35.299] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:33:56.517] [info] Reloading...
+[2026-01-14 23:33:56.522] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:33:56.545] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:33:56.553] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:33:56.553] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:33:56.783] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:34:15.922] [info] Reloading...
+[2026-01-14 23:34:15.927] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:34:15.948] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:34:15.960] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:34:15.960] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:34:16.153] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:34:26.046] [info] Reloading...
+[2026-01-14 23:34:26.050] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:34:26.074] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:34:26.082] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:34:26.082] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:34:26.273] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:37:25.760] [info] Reloading...
+[2026-01-14 23:37:25.763] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:37:25.786] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:37:25.794] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:37:25.794] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:37:26.038] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:41:48.336] [info] Reloading...
+[2026-01-14 23:41:48.341] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:41:48.362] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:41:48.368] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:41:48.368] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:41:48.609] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:41:58.645] [info] Reloading...
+[2026-01-14 23:41:58.650] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:41:58.673] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:41:58.683] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:41:58.683] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:41:58.880] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:43:43.447] [info] Reloading...
+[2026-01-14 23:43:43.451] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:43:43.475] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:43:43.482] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:43:43.482] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:43:43.725] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:44:31.716] [info] Reloading...
+[2026-01-14 23:44:31.720] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:44:31.742] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:44:31.749] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:44:31.749] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:44:31.991] [info] Bar configured (width: 1280, height: 46) for output: eDP-2
+[2026-01-14 23:44:43.952] [info] Reloading...
+[2026-01-14 23:44:43.957] [info] Using configuration file /home/austin/.config/waybar/config.jsonc
+[2026-01-14 23:44:43.977] [info] Using CSS file /home/austin/.config/waybar/style.css
+[2026-01-14 23:44:43.986] [info] Loading persistent workspaces from Waybar config
+[2026-01-14 23:44:43.986] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 23:44:44.187] [info] Bar configured (width: 1280, height: 46) for output: eDP-2

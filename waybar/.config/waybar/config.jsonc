@@ -29,11 +29,11 @@
   /* === Modules Left === */
   "custom/archicon": {
     "format": "",
-    "on-click": "wofi --show drun",
+    "on-click": "rofi -show run",
     "tooltip": false
   },
   "clock": {
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Denver",
     "format": "{:%I:%M  %d, %m}",
     "tooltip-format": "{calendar}",
     "calendar": {
