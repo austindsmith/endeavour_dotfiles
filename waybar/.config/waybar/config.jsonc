@@ -68,10 +68,13 @@
     "format": "{icon}",
     "format-icons": {
       "default": "",
-      "active": ""
-    },
-    "persistent-workspaces": {
-      "*": 2
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "󱁤",
+      "6": "󱓥",
+      "10": ""
     },
     "disable-scroll": true,
     "all-outputs": true,
